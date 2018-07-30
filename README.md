@@ -6,6 +6,9 @@
 [![python](https://img.shields.io/badge/Python-3.6.0-blue.svg)](https://www.python.org/downloads/release/python-360/)
 [![SQLConnector](https://img.shields.io/badge/MySQL%20--%20Connector-2.1.4-blue.svg)](https://dev.mysql.com/doc/connector-python/en/connector-python-installation.html)
  <br>
+
+# Project Discontinued
+Due to events that lead to the end of KvasirSG Development, The Bot has been discontinued. Feel free to salvage what you can use.
 # Aurora
 Aurora is the official "KvasirSG Development" Discord Bot with various features, for administration as well and music and fun.
 We are always hard working on development and improvents so if you got any sugeestions or want to report a but feel free to
